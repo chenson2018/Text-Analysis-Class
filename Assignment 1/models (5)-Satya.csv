@@ -43,7 +43,6 @@ bmw,m3
 bmw,m6
 bmw,bmws
 bmw,bmwesque
-bmw,x
 bmw,325i
 bmw,m3
 buick,park avenue
@@ -58,7 +57,6 @@ cadillac,escalade
 cadillac,srx
 cadillac,xts
 cadillac,cts
-cadillac,v
 chevrolet,grand blazer
 chevrolet,trailblazer
 chevrolet,trailblazer
@@ -252,8 +250,7 @@ hyundai,santa
 hyundai,sonatas
 hyundai,hyundais
 hyundai,veracruz
-hyundai,"excel,"
-hyundai,excel.
+hyundai,excel
 infiniti,qx50
 infiniti,qx60
 infiniti,qx70
@@ -345,8 +342,7 @@ nissan,leaf
 nissan,370z
 nissan,altimas
 nissan,nissans
-nissan,quest.
-nissan,"quest,"
+nissan,quest
 pontiac,streamliner
 pontiac,grand prix
 pontiac,grand am
